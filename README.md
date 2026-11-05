@@ -23,7 +23,7 @@ permite exportar em PDF (pela impressão) ou os dados em CSV.
 | Situação por regional | Modelo, termo, ponto focal e casos de análise manual (jul–out) |
 | Clube F: análise manual | Resultado dos casos e como funciona a validação em três níveis |
 | Site e área logada | Entregas do site, da área logada e da página dos 60 anos |
-| Brasília: de planilhas para a API | Integração com a WBC, fornecedora do sistema da ASBAC Brasília |
+| Brasília: de planilhas para a API | Roadmap das sete etapas da integração com a WBC, fornecedora do sistema da ASBAC Brasília, e o detalhe de cada uma |
 | Marcos por mês e por frente | Linha do tempo cruzando mês e frente |
 | Atenção e próximos passos | Obstáculos, encaminhamento, próximo passo e responsável |
 
